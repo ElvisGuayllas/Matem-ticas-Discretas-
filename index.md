@@ -1,18 +1,15 @@
 # 🎓 UNIVERSIDAD NACIONAL DE LOJA
 ---
-## 📚 Materia: Teoría de la Programación  
+## 📚 Materia: Matematicas Discretas 
 ---
 ## 👤 Estudiante  
 **Elvis Hernan Guayllas Sarango**
 ---
 ## 👩‍🏫 Docente  
-**Ing. Lissette Geoconda López Faicán**
+**Ing. Cueva Hurtado Mario Enrique**
 ---
 ## 💻 Carrera  
 Computación / Ingeniería en Sistemas
----
-## 📘 Asignatura  
-Teoría de la programación
 ---
 ## 📅 Ciclo  
 Primer ciclo
@@ -20,10 +17,10 @@ Primer ciclo
 ## 📆 Periodo Académico  
 2025 - 2026
 ---
-# 📋 Portafolio Digital de Aprendizaje
+# 📋 Portafolio Digital 
 ---
 ## Unidad 1 🔍  
-[Contenidos de la unidad 1](./Unidad1.md)
+[Contenidos de la unidad 1](./Unidad1.md) 
 ---
 ## Unidad 2 📚  
 [No aplica]
