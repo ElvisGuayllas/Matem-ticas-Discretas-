@@ -1,15 +1,15 @@
-## TEMAS PRINCIPALES 📚⚙️
+## TEMAS PRINCIPALES 📚⚙️✨🎓
 
-**1.1 DEFINICIONES BÁSICAS DE LÓGICA,PROPOSICIONES Y OPERADORES.**  
+**1.1 DEFINICIONES BÁSICAS DE LÓGICA, PROPOSICIONES Y OPERADORES.** 🧠💡  
 La lógica es la rama de la filosofía y ciencia formal que estudia las leyes y formas del pensamiento, enseñando a razonar de manera coherente y ordenada para derivar conclusiones válidas a partir de premisas establecidas​.​
 
-**Definición de lógica**  
+**Definición de lógica** 📐📊  
 La lógica se ocupa de analizar estructuras del pensamiento y de establecer principios válidos para el razonamiento, sin considerar el contenido específico, sino la forma y relaciones entre proposiciones o enunciados​.​
 
-**Proposiciones**  
+**Proposiciones** 📝🔍  
 Una proposición es un enunciado declarativo que puede ser verdadero o falso, no admitiendo valores intermedios. Se trata de la unidad básica en la lógica proposicional, que puede constituir proposiciones simples o compuestas​.​
 
-**Operadores lógicos** 🔗  
+**Operadores lógicos** 🔗⚙️  
 Los operadores lógicos o conectivos lógicos son símbolos que permiten formar proposiciones compuestas a partir de proposiciones simples.  
 **Los principales operadores son:**  
 - Negación (¬) ❌: invierte el valor de verdad de una proposición.  
@@ -26,7 +26,7 @@ Una tabla de verdad es un dispositivo gráfico o tabla que muestra todos los pos
 Su utilidad principal es determinar cuándo una proposición compuesta es verdadera, falsa o contingente, y es fundamental para analizar la validez lógica de argumentos mediante la aplicación de operadores lógicos como la negación, conjunción, disyunción, condicional y bicondicional.  
 Las tablas de verdad tienen tantas filas como combinaciones posibles de valores de verdad de las proposiciones simples, que es **2n** si hay **n** proposiciones simples. Así, pueden identificar tautologías (siempre verdaderas), contradicciones (siempre falsas) o proposiciones contingentes (verdaderas en algunos casos y falsas en otros)​.
 
-**ACTIVIDADES** 🎯🖥️  
+**ACTIVIDADES** 🎯🖥️📚  
 **APE (Aprendizaje práctico experimental)**  
 [RESOLUCION DE EJERCICIOS](https://drive.google.com/file/d/1c9e_0mq-TxbUv4UnFZXrnD2IrBem2kcc/view?usp=drive_link)  
 
