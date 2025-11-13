@@ -28,13 +28,6 @@ Primer ciclo
 ## Unidad 3 📝  
 [No aplica]
 ---
-## Conclusiones 📊  
-[No aplica]
----
-## Referencias 📑  
-s/n﻿
-
----
 
 ## Uso de la IA generativa 🤖  
 
